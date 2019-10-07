@@ -6,7 +6,12 @@ namespace Open_Lab_01._2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("iba test ulohy 2");
+            int a = 5;
+            int b = 20;
+            int c = a + b;
+            Console.WriteLine(c);
+
+
         }
     }
 }
